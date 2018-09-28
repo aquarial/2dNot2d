@@ -1,6 +1,6 @@
-# 2D or Not 2D
+# 2DNot2D
 
-First person 2-dimensional mazelike game
+An older 4 person hackathon project I worked.
 
 Find your way through challenges in a first person flatlander perspective.
 
